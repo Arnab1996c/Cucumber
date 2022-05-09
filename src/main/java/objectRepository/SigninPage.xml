@@ -1,0 +1,6 @@
+<SigninPage>
+
+<HeaderSigninPage>//span[contains(text(),'Home')]</HeaderSigninPage>
+<Next>NextButton</Next>
+
+</SigninPage>

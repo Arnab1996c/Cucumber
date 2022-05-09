@@ -1,0 +1,11 @@
+
+<HomePage>
+
+<HeaderHomePage>//span[contains(text(),'Home')]</HeaderHomePage>
+<SignInButton>//a[text()='register']//preceding::a[1]</SignInButton>
+<SelectCatagories>//select[@aria-label='Select a category for search']</SelectCatagories>
+<searchButton>//input[@type='submit']</searchButton>
+
+</HomePage>
+
+
