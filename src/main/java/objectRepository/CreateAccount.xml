@@ -1,0 +1,10 @@
+<CreateAccountPage>
+
+<HeaderCreateAccountPage>//h1</HeaderCreateAccountPage>
+<YourName>//input[@id='ap_customer_name']</YourName>
+<EmailId>//input[@id='ap_email']</EmailId>
+<Password>//input[@id='ap_password']</Password>
+<PasswordAgain>//input[@id='ap_password_check]</PasswordAgain>
+<ContinueButton>//input[@id='continue']</ContinueButton>
+
+</CreateAccountPage>

@@ -1,10 +1,19 @@
 
 <HomePage>
 
-<HeaderHomePage>//span[contains(text(),'Home')]</HeaderHomePage>
+<HeaderHomePage>//a[@id='nav-hamburger-menu']</HeaderHomePage>
 <SignInButton>//a[text()='register']//preceding::a[1]</SignInButton>
+<SignInOption>//span[contains(text(),'Hello, Sign in')]</SignInOption>
 <SelectCatagories>//select[@aria-label='Select a category for search']</SelectCatagories>
 <searchButton>//input[@type='submit']</searchButton>
+<CreateNewAccountButton>//a[@id='createAccountSubmit']</CreateNewAccountButton>
+
+
+
+
+
+
+
 
 </HomePage>
 

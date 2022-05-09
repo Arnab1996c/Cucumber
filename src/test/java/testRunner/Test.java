@@ -1,7 +1,6 @@
 package testRunner;
 
 import org.junit.runner.RunWith;
-import driverFile.BaseClass;
 import io.cucumber.junit.CucumberOptions;
 import io.cucumber.junit.Cucumber;
 
@@ -17,7 +16,7 @@ import io.cucumber.junit.Cucumber;
 			
 		)
 
- public class Test extends BaseClass {
+ public class Test{
 	
 	
 	
